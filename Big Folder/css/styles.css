@@ -2,16 +2,12 @@ html,
 body {
   height: 100%;
   font-size: 1rem;
-  font-family: "Montserrat", sans-serif;
-}
+  font-family: 'Palette Mosaic', cursive;}
 
 .gradient {
-  background: rgb(0, 97, 242);
-  background: linear-gradient(
-    135deg,
-    rgba(0, 97, 242, 1) 0%,
-    rgba(105, 0, 199, 1) 100%
-  );
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(255,0,0,1) 0%, rgba(254,255,0,1) 100%);
+
 }
 
 .page-header {
